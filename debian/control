@@ -7,7 +7,7 @@ Build-Depends:
  automake,
  autotools-dev,
  cpio,
- debhelper (>= 5),
+ debhelper (>= 9),
  libtool,
 Standards-Version: 3.9.6
 
